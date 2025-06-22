@@ -1,2 +1,3 @@
-# Prosody
-Script written in Bash to install Prosody in 3 steps
+# automated-prosody
+
+Script to install prosody in 3 steps.
