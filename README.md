@@ -1,3 +1,1 @@
-# Prosody-Installer
-
-Script to install prosody in 3 steps.
+This will help you install Prosody in 3 steps so you can set up your XMPP server.
